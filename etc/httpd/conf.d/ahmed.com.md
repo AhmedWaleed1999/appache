@@ -1,3 +1,4 @@
+```
 <VirtualHost *:80>
         ServerName ahmed.com
         DocumentRoot /var/www/ahmed.com
@@ -7,4 +8,4 @@
         AllowOverride All
         Require all granted
 </Directory>
-~               
+```             
